@@ -1,1 +1,62 @@
-﻿
+﻿#Div1{
+    font-family: cursive;
+    font-size:60px;
+    font-weight:bold
+
+
+}
+.GRbutton{
+    color: white!important;
+}
+.GRbutton:link {
+    background-color: #0095f6;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+}
+.GRbutton:hover {
+    background-color: darkblue;
+    border-color: white;
+    border-width: 2px;
+    color: #fafafa;
+    cursor: progress
+}
+.Follow {
+    color: white !important;
+}
+.Follow:link{
+    background-color: #0095f6;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+}
+
+.Follow:hover {
+    background-color: darkblue;
+    border-color: white;
+    border-width: 2px;
+    color: #fafafa;
+    cursor: progress;
+}
+.pb-3{
+    background-color: ghostwhite;
+    text-align: center;
+    
+}
+#span1{
+        font-weight:bold;
+    }
+#span2 {
+    font-weight: bold;
+}
+#span1 {
+    font-weight: bold;
+} 
