@@ -59,4 +59,10 @@
 }
 #span1 {
     font-weight: bold;
-} 
+}
+#span3{
+    color: gray !important;
+}
+.footer{
+    text-align:center;
+}
