@@ -66,3 +66,12 @@
 .footer{
     text-align:center;
 }
+.positiontext {
+    background-color: rgba(0,0,0,.8);
+    color: white;
+    position: sticky;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    backdrop-filter: blur(4px);
+}
